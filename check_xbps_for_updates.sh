@@ -1,5 +1,5 @@
 #!/bin/bash
-packages=(blazeblogger pdf2htmlEX dtrx liblastfm mps-youtube python-pafy radeontop tilda apvlv cutemarked newsbeuter ssr lmms stfl)
+packages=(blazeblogger pdf2htmlEX dtrx liblastfm mps-youtube python-pafy radeontop tilda apvlv cutemarked newsbeuter ssr lmms stfl cherrytree gavl)
 xbps_src_dir="/home/logen/opt/void-packages"
 
 for i in "${packages[@]}"
