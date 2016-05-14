@@ -148,7 +148,7 @@ set ffs=unix,dos,mac
 set nowb
 set noswapfile
 set backup
-set backupdir=/home/${HOME}/.vim_backups
+set backupdir=${HOME}/.vim_backups
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Text, tab and indent related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
