@@ -1,7 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/logen/Documents/packaging/void-packages/srcpkgs/CuteMarkEd'
-let g:netrw_dirhist_2='/home/logen/Documents/packaging/void-packages/srcpkgs/vokoscreen'
-let g:netrw_dirhist_3='/home/logen/.mutt'
-let g:netrw_dirhist_4='/home/logen/Transcode_this/convert'
-let g:netrw_dirhist_5='/home/logen/opt/void-packages/srcpkgs/totem-pl-parser'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/logen/opt/void-packages/srcpkgs'
+let g:netrw_dirhist_2='/home/logen/fuck'
+let g:netrw_dirhist_3='/home/logen/void-packages/srcpkgs/lmms'
+let g:netrw_dirhist_4='/var/lib/connman-vpn'
+let g:netrw_dirhist_5='/home/logen/.xombrero'
+let g:netrw_dirhist_6='/home/logen/Documents/programming/c/lazyfoodSDL/01_hello_SDL/01_hello_SDL'
+let g:netrw_dirhist_7='/home/logen/Documents/programming/c/check_if_exists/.git'
+let g:netrw_dirhist_8='/home/logen/Documents/bob'
