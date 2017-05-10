@@ -4,6 +4,6 @@ echo "Please input playlist URL: "
 read playlistURL
 
 echo "#!/bin/sh" > update.sh;
-echo "youtube-dl -i --prefer-free-formats -f \"best[height<=720]\" --download-archive archive.txt \"${playlistURL}\"" >> update.sh;
+echo "youtube-dl -i --prefer-free-formats -f \"best[height<=480]\" --download-archive archive.txt \"${playlistURL}\"" >> update.sh;
 chmod +x update.sh;
 ./update.sh;
